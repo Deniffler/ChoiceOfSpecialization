@@ -22,9 +22,10 @@
 
 ### Решение Задачи:
 
-Блок схема решения задачи представлена по ссылке - #
+Блок схема решения задачи представлена по [ссылке](https://github.com/Deniffler/ChoiceOfSpecialization/blob/main/BlockSheme.jpg)
+[![N|Solid](https://github.com/Deniffler/ChoiceOfSpecialization/blob/main/BlockSheme.jpg)]
 
-Код программы реализации задачи   - (скачать)
+Код программы реализации задачи   - [(скачать)](https://github.com/Deniffler/ChoiceOfSpecialization/blob/main/Code/Program.cs)
 ```sh
 string[] firsArray = { "hello", "2", "word", ":-)", "123", "156", "computer scence", "Russia", "Denmark", "Kaz" };
 string str = string.Empty;
@@ -40,4 +41,3 @@ for (int i = 0; i < secondArr.Length - 1; i++)
     Console.Write(secondArr[i] + ", ");
 }
 Console.WriteLine(secondArr[secondArr.Length - 1] + "]");
-```
